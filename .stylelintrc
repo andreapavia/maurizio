@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "indentation": [4],
+    "rule-empty-line-before": [
+      "always",
+      {
+        "except": "first-nested"
+      }
+    ]
+  }
+}

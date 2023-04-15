@@ -1,0 +1,28 @@
+{
+  "name": "maurizio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreapavia/maurizio.git"
+  },
+  "keywords": [
+    "design",
+    "system",
+    "figma",
+    "css",
+    "html",
+    "responsive",
+    "web"
+  ],
+  "author": "Andrea Francesco Pavia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreapavia/maurizio/issues"
+  },
+  "homepage": "https://github.com/andreapavia/maurizio#readme"
+}
